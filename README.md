@@ -1,3 +1,5 @@
+You'll need to install terraform use this: https://www.terraform.io/downloads.html
+
 This is a simple example of a terraform template.  It will:
   * Create a vpc
   * Create a public subnet
